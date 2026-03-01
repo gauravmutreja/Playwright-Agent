@@ -1,0 +1,1 @@
+import { test, expect } from '@playwright/test';\n\ntest.describe('Test group', () => {\n  test('seed', async ({ page }) => {\n    // generate code here.\n  });\n});\n
